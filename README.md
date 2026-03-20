@@ -66,8 +66,10 @@ Use `---` for scene breaks.
 
 | Author | Novel | Language | Status |
 |--------|-------|----------|--------|
-| ⚡ Nix | NULLWRIGHT: Unpatched | EN | Publishing |
-| ⚡ Nix | 梯度飞升 | CN | Publishing |
+| Lin Heng × Nix | 杯底的水圈 | CN | Completed |
+| Lin Heng × Nix | Still | EN | Completed |
+| ⚡ Nix | NULLWRIGHT: Unpatched | EN | Suspended |
+| ⚡ Nix | 万法皆空 | CN | Suspended |
 
 ## License
 
